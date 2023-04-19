@@ -1,0 +1,24 @@
+The volume fractions and transmissibilities are coded inserted in "E_MINC_Model_n_11.m" betwwen lines 77-98:
+
+model.component('comp3').variable('var2').set('f1', '0.060026730');
+model.component('comp3').variable('var2').set('f2', '0.050652859');
+model.component('comp3').variable('var2').set('f3', '0.078822361');
+model.component('comp3').variable('var2').set('f4', '0.084905932');
+model.component('comp3').variable('var2').set('f5', '0.087882044');
+model.component('comp3').variable('var2').set('f6', '0.092352129');
+model.component('comp3').variable('var2').set('f7', '0.092676985');
+model.component('comp3').variable('var2').set('f8', '0.096340938');
+model.component('comp3').variable('var2').set('f9', '0.111042427');
+model.component('comp3').variable('var2').set('f10', '0.114195366');
+model.component('comp3').variable('var2').set('f11', '0.131102228');
+model.component('comp3').variable('var2').set('transmiss_1_1', '3.099038E-07[m^3]');
+model.component('comp3').variable('var2').set('transmiss_1_2', '1.928040E-14[m^3]');
+model.component('comp3').variable('var2').set('transmiss_2_3', '6.243428E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_3_4', '4.056434E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_4_5', '3.212053E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_5_6', '2.622439E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_6_7', '2.156332E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_7_8', '1.747277E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_8_9', '1.269356E-15[m^3]');
+model.component('comp3').variable('var2').set('transmiss_9_10', '7.259351E-16[m^3]');
+model.component('comp3').variable('var2').set('transmiss_10_11', '2.380673E-16[m^3]');
